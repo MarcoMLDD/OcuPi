@@ -1,6 +1,6 @@
 # OcuPi: MediaPipe Drowsiness Detection
 
-An iteration of the previous OpenCLOS, OcuPi aims to solve the issues faced with OpenCLOS. OcuPi is a real-time drowsiness detection system using MediaPipe Face Mesh to monitor eye and mouth movements for fatigue detection.
+An iteration of the previous OpenCLOS, OcuPi aims to solve the issues faced with OpenCLOS. OcuPi is a real-time drowsiness detection system using MediaPipe Face Mesh to monitor eye and mouth movements for fatigue detection. This is still buggy (that's for sure), certain things don't work out, but that's why it's open-source! So everyone could contribute, so feel free! Thank you!
 
 ## Features
 
@@ -17,3 +17,10 @@ An iteration of the previous OpenCLOS, OcuPi aims to solve the issues faced with
 
 ```bash
 pip install opencv-python mediapipe psutil pillow
+```
+## Acknowledgments
+
+I don't really know who to acknowledge, but I'm definitely grateful to the people who developed the needed dependencies to run this!
+And I would like to acknowledge my project group mates:
+1. J. Rodrigues
+2. R. Punzalan
