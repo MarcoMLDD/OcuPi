@@ -12,20 +12,7 @@ An iteration of the previous OpenCLOS, OcuPi aims to solve the issues faced with
 - **Cross-Platform**: Works on both desktop and Orange Pi (ARM)
 - **Dual Interface**: GUI mode with live feed or CLI mode for headless operation
 - **Alert System**: Visual and audible alerts for drowsiness detection
-- BlackBox Feature
-```
-OcuPi_BlackBox/
-├── session_YYYY-MM-DD_**-**-**/
-│   ├── device_info.json          # System specifications
-│   ├── session.log               # Main application log
-│   ├── performance.log           # CPU/memory monitoring
-│   ├── events.log               # Detailed event tracking
-│   ├── camera_info.json         # Camera specifications
-│   ├── calibration_history.json # Calibration records
-│   └── session_summary.json     # Session statistics
-└── session_YYYY-MM-DD_**-**-**/
-    └── ... (next session files)
-```
+- **BlackBox Feature**: Log of information from a session
 
 ## Requirements
 
