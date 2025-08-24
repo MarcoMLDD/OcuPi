@@ -119,5 +119,5 @@ The application is designed to **gracefully handle missing optional dependencies
 
 I don't really know who to acknowledge, but I'm definitely grateful to the people who developed the needed dependencies to run this!
 And I would like to acknowledge my project group mates for their contributions to the documents and the hardware:
-1. J. Rodrigues
+1. J. Rodriguez
 2. R. Punzalan
