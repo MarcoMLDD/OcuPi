@@ -6,7 +6,7 @@ An iteration of the previous OpenCLOS, OcuPi aims to solve the issues faced with
 
 - **Real-time Monitoring**: Uses webcam feed for continuous monitoring
 - **MediaPipe Integration**: Accurate facial landmark detection
-- **PERCLOS Calculation**: Industry-standard eye closure measurement
+- **PERCLOS Calculation & Scoring**: Industry-standard eye closure measurement. Instead of regular EAR and MAR parameters, a scoring system was implemented
 - **Yawn Detection**: Mouth aspect ratio analysis
 - **Adaptive Thresholds**: Automatic calibration for individual users
 - **Cross-Platform**: Works on both desktop and Orange Pi (ARM)
