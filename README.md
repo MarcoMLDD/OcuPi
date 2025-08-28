@@ -94,25 +94,6 @@ pip install -r /app/backend/requirements.txt
 - **Windows**: tkinter usually included with Python
 - **macOS**: tkinter usually included with Python
 
-### **Verification**
-To verify all dependencies are installed correctly:
-```bash
-python -c "
-import psutil, cv2, numpy, mediapipe
-print('✅ Core dependencies installed successfully')
-try:
-    import tkinter, PIL
-    print('✅ GUI dependencies available')
-except ImportError:
-    print('⚠️  GUI dependencies missing (CLI mode only)')
-try:
-    import pygame
-    print('✅ Audio dependencies available')
-except ImportError:
-    print('⚠️  Audio dependencies missing (system beep fallback)')
-"
-```
-
 The application is designed to **gracefully handle missing optional dependencies** and will continue to work in CLI mode even if GUI or audio components are unavailable.
 
 ## Acknowledgments
