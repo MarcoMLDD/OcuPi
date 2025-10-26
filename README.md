@@ -145,7 +145,7 @@ If missing, the system will use a **system beep** fallback.
 ## Project Structure
 
 ```
-OcuPi-Deployment/
+OcuPi/
 │
 ├── OCUPI.py                # Main detection program
 ├── alarm.wav               # Drowsiness alert sound
