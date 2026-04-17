@@ -7,6 +7,17 @@ This project is part of a research project, with the help of J. Rodriguez and R.
 
 ---
 
+## 🏆 Achievements
+
+OcuPi has been recognized at multiple levels of academic science and technology competitions for its innovation and impact on public safety.
+
+- **Top Placer** – School Science and Technology Fair (SSTF) – *Innovation Category*
+- **Champion** – Division Science and Technology Fair (DSTF) – *Innovation Category*
+- **4th Place** – Regional Science and Technology Fair (RSTF) – *Innovation Category*
+- **Special Award for Public Safety** – National Science and Engineering Fair (NSEF) – *Experimental Category*
+
+---
+
 ## Features
 
 - **Real-Time Drowsiness Detection**  
